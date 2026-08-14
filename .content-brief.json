@@ -1,0 +1,22 @@
+{
+  "content_type": "agent",
+  "keyword": "Google ADK browser automation guide",
+  "keyword_row": 65,
+  "title": "How to Build a CAPTCHA Browser Tool for Google ADK with CapSolver",
+  "slug": "google-adk-captcha-browser-tool-capsolver",
+  "framework": "Google ADK",
+  "problem": "Google ADK tools need a clear contract for reporting CAPTCHA challenges without passing secrets or ambiguous browser output back to the agent",
+  "value": "a mock-first Google ADK browser-tool adapter with typed inputs, redacted results, and bounded continuation",
+  "topics": [
+    "google-adk",
+    "ai-agent",
+    "browser-tool",
+    "capsolver",
+    "captcha",
+    "python",
+    "authorized-qa"
+  ],
+  "problem_statement": "Google ADK tools need a clear contract for reporting CAPTCHA challenges without passing secrets or ambiguous browser output back to the agent",
+  "agent_keyword": "Google ADK browser automation guide",
+  "scenario_keyword": null
+}

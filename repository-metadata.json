@@ -1,0 +1,16 @@
+{
+  "owner": "Conorirish",
+  "slug": "google-adk-captcha-browser-tool-capsolver",
+  "title": "How to Build a CAPTCHA Browser Tool for Google ADK with CapSolver",
+  "description": "A mock-first google adk browser-tool adapter with typed inputs, redacted results, and bounded continuation using CapSolver.",
+  "topics": [
+    "google-adk",
+    "ai-agent",
+    "browser-tool",
+    "capsolver",
+    "captcha",
+    "python",
+    "authorized-qa"
+  ],
+  "visibility": "public"
+}

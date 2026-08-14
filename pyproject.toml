@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "google-adk-captcha-browser-tool-capsolver"
+version = "0.1.0"
+description = "A mock-first google adk browser-tool adapter with typed inputs, redacted results, and bounded continuation."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Contributors"}]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
